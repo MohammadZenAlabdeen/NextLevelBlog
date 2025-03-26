@@ -9,7 +9,7 @@ function Hero() {
         <Image
           src='https://res.cloudinary.com/dwv77l2d3/image/upload/v1742935755/nextjs-course-blog/pl53l0i5omz0owfjdvxo.png'
           alt='An image showing Max'
-          width={300}
+          width={200}
           height={300}
         />
       </div>
