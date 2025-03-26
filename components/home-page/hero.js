@@ -7,13 +7,13 @@ function Hero() {
     <section className={classes.hero}>
       <div className={classes.image}>
         <Image
-          src='/images/site/mohammad.png'
+          src='https://res.cloudinary.com/dwv77l2d3/image/upload/v1742935755/nextjs-course-blog/pl53l0i5omz0owfjdvxo.png'
           alt='An image showing Max'
           width={300}
           height={300}
         />
       </div>
-      <h1>Hi, I'm Max</h1>
+      <h1>Hi, I'm Mohammad</h1>
       <p>
         I blog about web development - especially frontend frameworks like
         Angular or React.
